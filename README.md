@@ -7,8 +7,8 @@ A Bootstrap 4 Online Shop Project
 結果令自己頗滿意，在創作的過程中也對此框架語言及延伸的CSS知識有了
 更深一層的熟稔度，收穫甚多。
 
-This website is me exercising all I have learned from Bootstrap4, 
+This website is me exercising all I have learned from Bootstrap 4, 
 which is also designed by myself to give it a flair of personal aesthetic. 
-It is my first online shopping site coded by myself, the working proccess was 
-all rather exhilarating, being able to build something from just ideas and drafts to frames, 
+It is my first online shopping site coded by myself. The working process was 
+pure joy, being able to build something from just ideas and drafts to frames, 
 walls and in the end the whole building on your own. 
